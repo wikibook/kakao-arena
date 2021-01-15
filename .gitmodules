@@ -1,6 +1,6 @@
 [submodule "shopping-classification"]
 	path = shopping-classification
-	url = https://github.com/kakao-arena/shopping-classification/
+	url = https://github.com/kakao-arena/shopping-classification
 [submodule "product-categories-classification"]
 	path = product-categories-classification
 	url = https://github.com/lime-robot/product-categories-classification
