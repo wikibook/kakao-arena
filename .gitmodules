@@ -1,0 +1,18 @@
+[submodule "shopping-classification"]
+	path = shopping-classification
+	url = https://github.com/kakao-arena/shopping-classification/
+[submodule "product-categories-classification"]
+	path = product-categories-classification
+	url = https://github.com/lime-robot/product-categories-classification
+[submodule "categories-prediction"]
+	path = categories-prediction
+	url = https://github.com/lime-robot/categories-prediction
+[submodule "brunch-article-recommendation"]
+	path = brunch-article-recommendation
+	url = https://github.com/kakao-arena/brunch-article-recommendation
+[submodule "brunch_nafma"]
+	path = brunch_nafma
+	url = https://github.com/JungoKim/brunch_nafma
+[submodule "arena2-book"]
+	path = arena2-book
+	url = https://github.com/BryanKoo/arena2-book
